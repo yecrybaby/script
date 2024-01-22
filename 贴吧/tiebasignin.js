@@ -3,7 +3,7 @@
 脚本为串行执行，通过设定batchSize的值<int>，实现每批多少个贴吧并行签到一次。
 */
 const scriptName = "百度贴吧";
-const batchSize = 20;
+const batchSize = 25;
 const retries = 10; // 签到失败重试次数
 const interval = 5000; // 每次重试间隔
 const tiebaCookieKey = "tieba_signin_cookie";

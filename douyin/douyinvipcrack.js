@@ -18,7 +18,7 @@
 下载地址: https://d.lg3cdx.net?code=K7J4PS&channel=share
 
 ******************************************
-^https?:\/\/cc.(qsk0ui|n2p4fa|h6xgec).cc\/h5\/app\/api\/(config|user\/info|video\/info|tab\/module) url script-response-body https://raw.githubusercontent.com/Yuheng0101/X/main/Scripts/dyin.js
+^https?:\/\/cc.(qsk0ui|n2p4fa|h6xgec).cc\/h5\/app\/api\/(config|user\/info|video\/info|tab\/module) url script-response-body https://github.com/yecrybaby/script/blob/main/douyin/douyinvipcrack.js
 
 hostname = cc.qsk0ui.cc, cc.n2p4fa.cc, cc.h6xgec.cc
 ******************************************/
